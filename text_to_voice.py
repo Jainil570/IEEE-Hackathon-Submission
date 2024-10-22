@@ -5,7 +5,7 @@ import platform
 import subprocess
 
 # The text that you want to convert to audio in Gujarati
-mytext = 'તમે ગીક્સફોર્ગીક્સ પર સ્વાગત છે જો!'
+mytext = 'SignAura પર સ્વાગત છે જો!'
 
 # Language in which you want to convert (Gujarati)
 language = 'gu'
